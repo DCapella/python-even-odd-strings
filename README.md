@@ -1,1 +1,5 @@
-# python-even-odd-strings
+# Python Review
+
+  
+# Acknowledgments
+* [HackerRank](www.hackerrank.com)
